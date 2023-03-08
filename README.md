@@ -19,3 +19,7 @@ git config --global user.email "<GIT_EMAIL_ADDRESS>"
   git remote add origin https://github.com/zakeer/git-intro.git
   ```
 6. `git remote -v` - it will return connected remote url
+7. `git push -u <remote-name> <branch-name>`
+  ```bash
+  git push -u origin master
+  ```
