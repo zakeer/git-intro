@@ -23,3 +23,18 @@ git config --global user.email "<GIT_EMAIL_ADDRESS>"
   ```bash
   git push -u origin master
   ```
+
+8. Create a new branch using `git branch <new-branch-name>` command
+  ```bash
+  git branch sql
+  ```
+
+9. Change (Checkout) to newly created branch `git checkout <new-branch-name>` 
+  ```bash
+  git checkout sql
+  ```
+
+10. Create a branch and Checkout to new branch: just include `-b` to `checkout` command
+```
+git checkout -b mongosh
+```
