@@ -1,4 +1,4 @@
-# sk. Muskan Fathima 
+# Sk. Muskan Fathima
 
-- City: Guntur
-- Job: Developer
+- City : Guntur
+- Job : Developer
